@@ -40,14 +40,12 @@
     url={https://doi.org/10.1016/j.inffus.2025.103166}
    }
 
-}
 
-   ```bibtex
    @article{PUT,
     title={Physics-Constrained Fusion and Prior-Guided Classification Framework for Remote Sensing Perception},
     journal={Information Fusion},
     volume={137},
-    year={2027},
+    year={2026},
     pages={104624},
     issn={1566-2535},
     doi={10.1016/j.inffus.2026.104624},
