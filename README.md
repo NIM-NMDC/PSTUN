@@ -38,7 +38,7 @@
     issn={1566-2535},
     doi={10.1016/j.inffus.2025.103166},
     url={https://doi.org/10.1016/j.inffus.2025.103166}
-}
+   }
 
    ```bibtex
    @article{PUT,
