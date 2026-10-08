@@ -6,6 +6,7 @@
 ## 📢 NEWS
 | Date       | Update                                                                 |
 |------------|------------------------------------------------------------------------------------------------------------------------|
+| 2026.07.17 | PUT, the companion work to PSTUN, focuses on hyperspectral pansharpening and has been published in *Information Fusion*. [ PUT ](https://github.com/XWangBin/PUT-PDN)          |
 | 2025.04.14 | PSTUN has been integrated into the Hyperspectral Image Fusion Toolbox [ HIFTool ](https://github.com/Caoxuheng/HIFtool)          |
 | 2025.03.31 | Code released                                                          |
 | 2025.03.27 | Paper accepted by *Information Fusion*                                 |
